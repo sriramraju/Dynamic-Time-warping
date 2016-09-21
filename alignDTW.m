@@ -1,6 +1,6 @@
 function DTW_dist = alignDTW(in_1,in_2)
 
-% Author: Sriram Raju Dandu
+% Author:Sriram Raju Dandu
 % Alignment of cycles and obtaining DTW distance
 
 % in_1 and in_2 are 3D accelerometer values of similiar length
