@@ -1,4 +1,3 @@
-% Copyright 2015 Matt Engelhard 
 % Modified from original script by Quan Wang (2013)
 % This version returns warp path P and corrects norm to sum of squares
 
